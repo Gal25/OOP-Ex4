@@ -15,7 +15,7 @@ https://github.com/Gal25
 
 
 
-### Introduction:
+## Introduction:
 This project is an assignment in an Object Oriented Programming course at Ariel University.\
 In the project we were asked to design and implement a pokemon game in python.
 
@@ -33,7 +33,8 @@ Depending on the amount of Pokemon that agent ate his speed increased. That is, 
 The goal of the whole game is to find the shortest way to get to the Pokemon and catch as many Pokemon as possible.
 
 
-### How to run the game:
+
+## How to run the game:
 
 First need to download our project in PYTHON workspace.\
 The way to download: stand on the `<>code` page -> press the `CODE` button -> ZIP Download.\
@@ -45,6 +46,10 @@ Third open the commend line or terminal from the folder and run and follow the c
   
 **_And that's it, Enjoy!!!_**
 
+  
+  
+## WIKI
+To have more information about the algorithms and the implementation of all class, please go to the `WIKI` page in the toolbar.
 
 
 
