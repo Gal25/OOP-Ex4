@@ -40,10 +40,10 @@ The way to download: stand on the `<>code` page -> press the `CODE` button -> ZI
 Second choose which case would you like to run. The rage is from 0-15.\
 Third open the commend line or terminal from the folder and run and follow the command below:
 
-#First command:#  java -jar .\Ex4_Server_v0.0.jar <caseID> \
-#Second commant:# java -jar .\Ex4_v1.0.jar _Make sure you run the main file.
+**First command:** java -jar .\Ex4_Server_v0.0.jar <caseID> \
+**Second commant:** java -jar .\Ex4_v1.0.jar _Make sure you run the main file.
   
-**And that's it, Enjoy!!!**
+**_And that's it, Enjoy!!!_**
 
 
 
