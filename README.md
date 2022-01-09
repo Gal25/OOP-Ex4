@@ -36,17 +36,23 @@ The goal of the whole game is to find the shortest way to get to the Pokemon and
 
 ## How to run the game:
 
-The Pokemon game work by using the server. We are the client and we send recieves messages to and from the server including json strings.\
-First need to download our project in PYTHON workspace.\
-The way to download: stand on the `<>code` page -> press the `CODE` button -> ZIP Download.\
-Second select which case would you like to run. The rage is from 0-15.\
-Without the choose the defult is case 0.\
-Third open the commend line or terminal from the folder and run and follow the command below:
+The Pokemon game work by using the server.\
+We are the client and we send receives messages to and from the server including JSON strings.\
+First need to download our project in PYTHON workspace.
 
-**First command:**  _java -jar .\Ex4_Server_v0.0.jar <caseID>_ \
-**Second commant:** _java -jar .\Ex4_v1.0.jar_    _(Make sure you run the main file "StudentCode.py")._
-  
-**_And that's it, Enjoy!!!_**
+The way to download: stand on the `<>code` page -> press the `CODE` button -> `ZIP Download`.
+
+After downloading extract the folder, and grab it into the workspace.
+
+Second select which case would you like to run. The range is from 0-15.\
+Without any selection the defaulted case is 0.
+
+Third open terminal from the folder and run and follow the command below:
+
+The command: _java -jar .\Ex4_Server_v0.0.jar (caseID)_\
+And after you opened the server run the main class "StudentCode.py".
+
+And that's it, Enjoy!!!
 
   
   
