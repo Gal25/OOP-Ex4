@@ -1,4 +1,4 @@
-# POKEMON GAME
+# WELCOME TO THE POKEMON GAME
 
 ## OOP-Ex4 
 
@@ -12,3 +12,6 @@ Github pages:
 https://github.com/DanaCherchenkov 
 https://github.com/Gal25
 ```
+
+###Introduction:
+
