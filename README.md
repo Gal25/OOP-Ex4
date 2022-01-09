@@ -39,7 +39,8 @@ The goal of the whole game is to find the shortest way to get to the Pokemon and
 The Pokemon game work by using the server. We are the client and we send recieves messages to and from the server including json strings.\
 First need to download our project in PYTHON workspace.\
 The way to download: stand on the `<>code` page -> press the `CODE` button -> ZIP Download.\
-Second choose which case would you like to run. The rage is from 0-15.\
+Second select which case would you like to run. The rage is from 0-15.\
+Without the choose the defult is case 0.\
 Third open the commend line or terminal from the folder and run and follow the command below:
 
 **First command:**  _java -jar .\Ex4_Server_v0.0.jar <caseID>_ \
