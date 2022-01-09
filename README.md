@@ -16,4 +16,10 @@ https://github.com/Gal25
 
 
 ### Introduction:
+This project is an assignment in an Object Oriented Programming course at Ariel University.\
+In the project we were asked to design and implement a pokemon game in python.
+
+```bash
+What is Pokemon game?
+```
 
